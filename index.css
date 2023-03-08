@@ -31,7 +31,7 @@ header {
   margin: 2.5em 0;
   box-shadow: var(--shadow-panel);
 
-  background-image: url("img/staggo.png");
+  background-image: url("img/staggo-header.png");
   background-repeat: no-repeat;
   background-size: contain;
 }
